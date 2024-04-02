@@ -13,7 +13,7 @@ python --version
 
 If the cmd returns a sequence of numbers it indicates you have them installed and you can proceed to the next step. Otherwise you must install [node.js][https://nodejs.org/en/download] and [python][https://www.python.org/downloads/]. Node.js will include npm and Python will include pip which are needed to install the libraries needed for this program.
 
-#### ii)Cloning Repository
+#### ii) Cloning Repository
 Go to the main page of this repo and click the drop down for the code button. Copy the link, then go to a directory in your command prompt where you would like to clone this repo with the following command:
 
 git clone <repo name>
