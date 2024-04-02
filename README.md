@@ -11,7 +11,7 @@ Make sure you have node.js and Python installed. To check this you can perform t
 node --version
 python --version
 
-If the cmd returns a sequence of numbers it indicates you have them installed and you can proceed to the next step. Otherwise you must install [node.js][https://nodejs.org/en/download] and [python][https://www.python.org/downloads/]. Node.js will include npm and Python will include pip which are needed to install the libraries needed for this program.
+If the cmd returns a sequence of numbers it indicates you have them installed and you can proceed to the next step. Otherwise you must install [node.js](https://nodejs.org/en/download) and [python](https://www.python.org/downloads/). Node.js will include npm and Python will include pip which are needed to install the libraries needed for this program.
 
 #### ii) Cloning Repository
 Go to the main page of this repo and click the drop down for the code button. Copy the link, then go to a directory in your command prompt where you would like to clone this repo with the following command:
@@ -24,6 +24,7 @@ In the main directory of this repo performs the following commands:
 npm install chart.js
 pip install streamlit
 
+For a quick intro to streamlit you can run the command streamlit hello (not required).
 #### iv) Running the Program
 In the same folder perform the following command:
 
