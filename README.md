@@ -1,9 +1,9 @@
 # EA2
-1. What package/library does the sample program demonstrate?
+### 1. What package/library does the sample program demonstrate?
 
 This package allows users to compare different engineering projects using weighted criteria.
 
-2. How does someone run your program?
+### 2. How does someone run your program?
 
 #### i) Installing Node.js and Python
 
@@ -36,8 +36,8 @@ This will take you to the web-app in your browser. The server for this web app i
 Follow the directions on the home page to use the program.
 
 
-3. What purpose does your program serve?
+### 3. What purpose does your program serve?
 
 
 
-4. What would be some sample input/output?
+### 4. What would be some sample input/output?
