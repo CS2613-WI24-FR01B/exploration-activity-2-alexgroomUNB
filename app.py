@@ -24,8 +24,9 @@ st.markdown("""
             This app allows companies to input weighted criteria and projects to choose the best option
 
             Steps:
-            1. Select the 'Criteria' tab and input all desired criteria and their respective weight's
-            2. Select the 'Projects' tab and input all projects to be considered for analysis. Rank each project based on the criteria.
-            3. Select the 'Charts' tab to view project comparisons.
+            1. Select the 'Criteria' tab and input all desired criteria one-by-one with their respective weight's.
+            2. Select the 'Projects' tab and input all projects one-by-one to be considered for analysis. Rank each project based on the criteria.
+            3. Select the 'Rank' tab, for each project there will be a drop down to rank each criteria (1-10) for each project. Once you are finished ALL rankings press the confirm button
+            4. Select the 'Charts' tab to view project comparisons.
             
             """)
