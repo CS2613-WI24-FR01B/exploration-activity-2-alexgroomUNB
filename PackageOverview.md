@@ -46,7 +46,8 @@ I chose streamlit as I am most comfortable with writing Python code. This allowe
 
 
 ### 6. How did learning the package/library influence your learning of the language?
-Using Streamlit enhanced my ability to handle user input in Python with regard to using dictionaries, as well as reading and writing to JSON files.
+Using Streamlit enhanced my ability to handle user input in Python with regard to using dictionaries, as well as reading and writing to JSON files. 
+The immediate visual responses provided by Streamlit enabled me to understand Python programming through a practical application.
 
 
 ### 7. How was your overall experience with the package/library?
