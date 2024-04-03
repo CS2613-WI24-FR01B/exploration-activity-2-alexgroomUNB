@@ -18,12 +18,13 @@ Under *Why Chart.js* on their website, "Chart.js was created and announced in 20
 ### 5. Why did you select this package/library?
 I selected Chart.js as it is highly popular and therefore very well maintained with good documentation. Creating the charts was quite straightforward with clear parameters and aesthetically pleasing results.
 
-
 ### 6. How did learning the package/library influence your learning of the language?
-
+Using Chart.js allowed me to become more familiar with JavaScript objects and data manipulation. 
 
 
 ### 7. How was your overall experience with the package/library?
+Using Chart.js was an overall good experience, it provides sufficient documentation to easily learn its functionality and apply it to your desired program. 
+
 
 ## Streamlit
 ### 1. Which package/library did you select?
@@ -45,7 +46,7 @@ I chose streamlit as I am most comfortable with writing Python code. This allowe
 
 
 ### 6. How did learning the package/library influence your learning of the language?
-
+Using Streamlit enhanced my ability to handle user input in Python with regard to using dictionaries, as well as reading and writing to JSON files.
 
 
 ### 7. How was your overall experience with the package/library?
