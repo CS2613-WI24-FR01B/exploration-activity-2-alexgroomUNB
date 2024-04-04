@@ -51,7 +51,7 @@ The immediate visual responses provided by Streamlit enabled me to understand Py
 
 
 ### 7. How was your overall experience with the package/library?
-
+My overall experience was great. Being able to use a language I was comfortable to perform a task I had never done before (creating a web app) was very helpful in my learning process. Streamlit has great documentation and I highly reccommend using it for anyone trying to get into web dev.
 ## References
 [1] https://www.chartjs.org/
 
